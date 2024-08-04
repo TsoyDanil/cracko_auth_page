@@ -1,0 +1,16 @@
+.root_container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: darkgrey;
+}
+
+.login_form {
+    padding: 20px;
+    border-radius: 5px;
+    background: white;
+    display: flex;
+    flex-direction: column;
+}
